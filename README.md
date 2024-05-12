@@ -23,8 +23,7 @@
 
 
 ### [Diabetes Dataset](Dataset/diabetes.csv) 
-Citation: National Institute of Diabetes and Digestive and Kidney Diseases. (1990). Diabetes Dataset [diabetes.csv]. Retrieved from https://www.kaggle.com/datasets/mathchi/diabetes-data-set
-
+Citation: National Institute of Diabetes and Digestive and Kidney Diseases. (1990). Diabetes Dataset [diabetes.csv]. 
 
 
 
