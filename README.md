@@ -5,7 +5,7 @@
 ![image](Project_DPM.png)
 
 ## <ins>Project Overview<ins>
-### This project uses machine learning to create a modeling predition to determine if a patient is likely to have Diabetes. To do this a number of variables and their outcome relationship to the likelihood of diabetes were evaluated. 
+### This project uses machine learning to create a model to determine if a patient is likely to have Diabetes. To do this a number of variables and their outcome relationship to the likelihood of diabetes were evaluated. 
 ### Variables:
 - Age : at least 21 years old of the same heritage (all females)
 - Blood Pressure : Diastolic blood pressure (mm Hg)
